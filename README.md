@@ -33,7 +33,7 @@ pip install pyTelegramBotAPI
 
 ## Разработчики
 
-- [A3narchy](https://github.com/A3narchy) - Опишите контактную информацию разработчика или ссылку на GitHub.
+- [A3narchy](https://github.com/A3narchy)
 
 ## Лицензия
 
