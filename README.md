@@ -6,10 +6,12 @@
 
 ### Установка
 
-1. Установите необходимые зависимости, выполнив следующую команду:
+1. Установите необходимые зависимости, выполнив следующую команду (win64): 
+pip install beautifulsoup4
+pip install requests
+pip install pyTelegramBotAPI
 
-
-2. Замените `'YOUR_BOT_TOKEN'` на свой токен Telegram в файле `bot.py`.
+3. Замените `'YOUR_BOT_TOKEN'` на свой токен Telegram в файле `bot.py`.
 
 ### Запуск
 
